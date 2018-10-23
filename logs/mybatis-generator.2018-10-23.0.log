@@ -1,0 +1,6 @@
+[INFO] [15:27:02.496] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.ConnectionManager.getConnection:20 --> database FilePath :D:\giteeworkspace\mybatis-generator\.\config\sqlite3.db
+[INFO] [15:27:06.136] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.DbUtil.getConnectionUrlWithSchema:104 --> getConnectionUrlWithSchema, connection url: jdbc:mysql://127.0.0.1:3306/20181018?useUnicode=true&useSSL=false&characterEncoding=utf8
+[INFO] [15:27:06.136] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.DbUtil.getTableNames:44 --> getTableNames, connection url: jdbc:mysql://127.0.0.1:3306/20181018?useUnicode=true&useSSL=false&characterEncoding=utf8
+[INFO] [15:27:06.147] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.DbUtil.loadDbDriver:118 --> load driver class: com.mysql.jdbc.Driver@7f327a12
+[INFO] [15:27:06.148] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.DbUtil.getConnectionUrlWithSchema:104 --> getConnectionUrlWithSchema, connection url: jdbc:mysql://127.0.0.1:3306/20181018?useUnicode=true&useSSL=false&characterEncoding=utf8
+[INFO] [15:27:06.451] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.DbUtil.getConnection:38 --> getConnection, connection url: com.mysql.jdbc.JDBC4Connection@26bcf853
